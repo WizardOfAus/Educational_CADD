@@ -1,6 +1,6 @@
 +++
 outputs = ["Reveal"]
-title = "Computer Aided Drug Design 2"
+title = "Computer Aided Drug Design"
 
 +++
 # Virtual Molecular Compound Screening 
