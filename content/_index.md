@@ -1,8 +1,8 @@
 +++
-title = "Computer Aided Drug Design"
 outputs = ["Reveal"]
-+++
+title = "Computer Aided Drug Design 2"
 
++++
 # Virtual Molecular Compound Screening 
 
 *Team OpenBio* 
@@ -13,4 +13,3 @@ outputs = ["Reveal"]
 Bioinformatics 101: Computer Aided Drug Design
 
 ---
-
